@@ -2,7 +2,7 @@
 
 ## 部品リスト
 
-・micro bit x 1
+・micro bit x 1<br>
 
 ・3Dプリンタ部品 x 1式
 ・サーボモータ SG90 x 2
